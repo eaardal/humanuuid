@@ -1,0 +1,6 @@
+# github.com/goombaio/namegenerator v0.0.0-20181006234301-989e774b106e
+## explicit
+github.com/goombaio/namegenerator
+# github.com/satori/go.uuid v1.2.0
+## explicit
+github.com/satori/go.uuid
